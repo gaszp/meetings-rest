@@ -1,0 +1,12 @@
+{
+    "name": "pawsao/meetings-vue-slim",
+    "authors": [
+        {
+            "name": "Paweł",
+            "email": "1pawsao1@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3"
+    }
+}
